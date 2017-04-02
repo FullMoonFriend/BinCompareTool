@@ -1,0 +1,9 @@
+C:\BinComp\Bin_Comparison_Tool.exe
+C:\BinComp\Bin_Comparison_Tool.pdb
+C:\BinComp\Bin_Comparison_Tool.xml
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.Form1.resources
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.Resources.resources
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.exe
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.xml
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.pdb

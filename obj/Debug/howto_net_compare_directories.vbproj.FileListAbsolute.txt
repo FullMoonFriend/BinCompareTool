@@ -1,0 +1,13 @@
+C:\Users\Dallas\Downloads\howto_net_compare_directories\bin\Debug\howto_net_compare_directories.exe
+C:\Users\Dallas\Downloads\howto_net_compare_directories\bin\Debug\howto_net_compare_directories.pdb
+C:\Users\Dallas\Downloads\howto_net_compare_directories\bin\Debug\howto_net_compare_directories.xml
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.Form1.resources
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.Resources.resources
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.exe
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.xml
+C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\howto_net_compare_directories.pdb
+C:\BinComp\howto_net_compare_directories.exe
+C:\BinComp\howto_net_compare_directories.pdb
+C:\BinComp\howto_net_compare_directories.xml
