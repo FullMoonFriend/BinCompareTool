@@ -6,8 +6,8 @@ Public Class Form1
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Dim base_dir As String = CombinePath(Application.StartupPath, "..\..")
 
-        txtDir1.Text = base_dir & "\Dir1"
-        txtDir2.Text = base_dir & "\Dir2"
+        txtDir1.Text = base_dir & "\"
+        txtDir2.Text = base_dir & "\"
 
     End Sub
 
@@ -37,8 +37,8 @@ Public Class Form1
         Do While (i1 < file_names1.Length) AndAlso (i2 < file_names2.Length)
             If file_names1(i1) = file_names2(i2) Then
                 ' They match.
-                dgvFiles.Rows.Add(New Object() {file_names1(i1), file_names2(i2), System.IO.File.GetLastWriteTime("C:\Test_1\" & file_names1(i1)).ToString, System.IO.File.GetLastWriteTime("C:\Test_2\" & file_names2(i2)).ToString})
-                If Not System.IO.File.GetLastWriteTime("C:\Test_1\" & file_names1(i1)).ToString = System.IO.File.GetLastWriteTime("C:\Test_2\" & file_names2(i2)).ToString Then
+                dgvFiles.Rows.Add(New Object() {file_names1(i1), file_names2(i2), System.IO.File.GetLastWriteTime(txtDir1.Text & file_names1(i1)).ToString, System.IO.File.GetLastWriteTime(txtDir2.Text & file_names2(i2)).ToString})
+                If Not System.IO.File.GetLastWriteTime(txtDir1.Text & file_names1(i1)).ToString = System.IO.File.GetLastWriteTime(txtDir2.Text & file_names2(i2)).ToString Then
                     dgvFiles.Rows.Item(i1).DefaultCellStyle.BackColor = Color.Red
 
                 End If

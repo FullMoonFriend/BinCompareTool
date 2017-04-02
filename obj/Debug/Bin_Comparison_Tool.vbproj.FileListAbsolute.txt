@@ -7,3 +7,14 @@ C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison
 C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.exe
 C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.xml
 C:\Users\Dallas\Downloads\howto_net_compare_directories\obj\Debug\Bin_Comparison_Tool.pdb
+C:\Users\BinComp\Bin_Comparison_Tool.exe
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.Form1.resources
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.Resources.resources
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.exe
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.xml
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\obj\Debug\Bin_Comparison_Tool.pdb
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\bin\Debug\Bin_Comparison_Tool.exe
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\bin\Debug\Bin_Comparison_Tool.pdb
+C:\Users\Dallas\Desktop\BinCompareToolGH\BinCompareTool\bin\Debug\Bin_Comparison_Tool.xml
