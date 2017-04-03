@@ -1,6 +1,9 @@
 Imports Microsoft.VisualBasic.FileIO.FileSystem
 Imports System.IO
 Imports System.Collections.ObjectModel
+Imports System.Text
+Imports System.Windows.Forms
+
 
 Public Class Form1
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
@@ -140,11 +143,25 @@ Public Class Form1
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        dgvFiles.DataSource = Nothing
+        dgvFiles.Rows.Clear()
 
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
+        '    Dim headers = (From header As DataGridViewColumn In dgvFiles.Columns.cast(Of DataGridViewColumn)()
+        '                   Select header.HeaderText).ToArray
+        '    Dim rows = From row As DataGridViewRow In dgvFiles.Rows.Cast(Of DataGridViewRow)()
+        '               Where Not row.IsNewRow
+        '               Select Array.ConvertAll(row.Cells.Cast(Of DataGridViewCell).ToArray, Function(c) If(c.Value IsNot Nothing, c.Value.ToString, ""))
+        '    Using sw As New IO.StreamWriter("csv.txt")
+        '        sw.WriteLine(String.Join(",", headers))
+        '        For Each r In rows
+        '            sw.WriteLine(String.Join(",", r))
+        '        Next
+        '    End Using
+        '    Process.Start("csv.txt")
     End Sub
 
 End Class
